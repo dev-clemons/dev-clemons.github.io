@@ -1,0 +1,122 @@
+cv:
+  name: Clemens Bachmann
+  label: Doctoral Student
+  email: # add your email here if you want it public
+  location: Zürich, Switzerland
+  image: ""
+  summary: Doctoral student at ETH Zürich, focused on Computer Vision & Human-Computer Interaction. Background in software engineering, teaching, and recruiting.
+
+  social_networks:
+    - network: GitHub
+      username: dev-clemons
+
+  address:
+    street:
+    city: Winterthur
+    region: Zürich
+    postalCode: 8406
+    countryCode: CH
+
+  sections:
+    Education:
+      - institution: ETH Zürich
+        location: Zürich, Switzerland
+        url: https://ethz.ch/
+        area: Teachers Diploma
+        studyType: Teachers Diploma
+        start_date: 2024-02
+        end_date: 2026-01
+        highlights:
+
+      - institution: ETH Zürich
+        location: Zürich, Switzerland
+        url: https://ethz.ch/
+        area: Computer Science
+        studyType: Master's degree
+        start_date: 2021
+        end_date: 2023
+        highlights:
+
+      - institution: ETH Zürich
+        location: Zürich, Switzerland
+        url: https://ethz.ch/
+        area: Computer Science
+        studyType: Bachelor's degree
+        start_date: 2015
+        end_date: 2020
+        highlights:
+
+    Experience:
+      - company: ETH Zürich
+        position: Doctoral Student (Computer Vision & HCI)
+        location: Zürich, Switzerland
+        start_date: 2025-05
+        end_date:
+        summary:
+        highlights:
+
+      - company: ETH Zürich
+        position: Application Developer
+        location: Zürich, Switzerland
+        start_date: 2023-06
+        end_date:
+        summary:
+        highlights:
+
+      - company: Kantonsschule Zürcher Unterland
+        position: Computer Science Lecturer
+        location: Uster, Zürich, Switzerland
+        start_date: 2023-08
+        end_date: 2024-08
+        summary:
+        highlights:
+
+      - company: Berufswahlschule Uster
+        position: Classroom & Student Support
+        location: Uster, Zürich, Switzerland
+        start_date: 2022-06
+        end_date: 2022-07
+        summary:
+        highlights:
+
+      - company: Federal Office of Meteorology and Climatology MeteoSwiss
+        position: Warning Development & Verification
+        location: Kloten, Zürich, Switzerland
+        start_date: 2020-09
+        end_date: 2021-01
+        summary:
+        highlights:
+
+      - company: Zühlke Group
+        position: Campus Scout
+        location: Schlieren, Switzerland
+        start_date: 2018-09
+        end_date: 2019-08
+        summary:
+        highlights:
+
+      - company: ETH Zürich
+        position: Teaching Assistant
+        location: Zürich, Switzerland
+        start_date: 2017-09
+        end_date: 2017-12
+        summary: In the course "Informatik 1" I taught 20 civil engineers how to solve beginner to intermediate level computer science exercises.
+        highlights:
+
+    Skills:
+      - name: Computer Vision
+        level: ""
+        icon: fa-solid fa-eye
+        keywords: ""
+      - name: Human-Computer Interaction
+        level: ""
+        icon: fa-solid fa-hand-pointer
+        keywords: ""
+      - name: Programming
+        level: ""
+        icon: fa-solid fa-code
+        keywords: ""
+
+    Languages:
+      # - name: Language
+      #   summary: Fluency level
