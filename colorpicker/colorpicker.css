@@ -1,0 +1,80 @@
+/* 
+ * Copyright (c) Microsoft Corporation. All rights reserved. Licensed under the MIT license.
+ * See LICENSE in the project root for license information.
+ */
+
+ #colorpickercontainer{
+    position: absolute;
+    z-index: 3000;
+ }
+
+ #drawcanvas{
+    position: absolute;
+    z-index: 11;
+    touch-action: none;
+}
+
+#myCanvas{
+    touch-action: none;
+    position: relative;
+    border: 0px solid #000000;
+    height: 300px;
+    width: 300px;
+    margin-bottom: -4px;
+}
+
+#contentcontainer{
+    position: absolute;
+    width: 300px;
+    z-index: 10;
+}
+
+#colorscontainer{
+    position: relative;
+    background-color: white;
+    margin-bottom: -4px;
+}
+
+[class="colors"]{
+    position: relative;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border: 1px solid #000000;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 2.5px;
+    width: 50px;
+    height: 50px;
+}
+
+#topslider {
+    -webkit-appearance: none;
+    outline: none;
+    margin-bottom: -4px;
+  }
+  
+  #blender{
+      position: relative;
+  }
+
+
+  #colordragheader {
+    all: revert;
+    width: 300;
+    position: fixed;
+    z-index: 100;
+    background-color: #f1f1f1;
+    text-align: center;
+    border: 1px solid #d3d3d3;
+    top: 100px;
+    left: 100px;
+  }
+  
+  #mydivheader {
+    width: 300PX;
+    cursor: move;
+    z-index: 10;
+    background-color: #2196F3;
+    color: #fff;
+  }
