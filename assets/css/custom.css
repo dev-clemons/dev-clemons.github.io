@@ -1,0 +1,18 @@
+/* Invert the profile picture's colors in dark mode. */
+@media (prefers-color-scheme: dark) {
+  img[src*="prof_pic"] {
+    filter: invert(1);
+  }
+}
+
+html[data-theme="dark"] img[src*="prof_pic"],
+body[data-theme="dark"] img[src*="prof_pic"],
+html.dark img[src*="prof_pic"],
+body.dark img[src*="prof_pic"] {
+  filter: invert(1);
+}
+
+html[data-theme="light"] img[src*="prof_pic"],
+body[data-theme="light"] img[src*="prof_pic"] {
+  filter: none;
+}
