@@ -7,4 +7,4 @@ importance: 2
 
 A web app for searching flights.
 
-Try it live: [cb_pen_planeapp](https://baclemen.github.io/cb_pen_planeapp/)
+Try it live: [cb_pen_planeapp](https://dev-clemons.github.io/cb_pen_planeapp/)

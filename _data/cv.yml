@@ -25,7 +25,6 @@ cv:
         area: Teachers Diploma
         studyType: Teachers Diploma
         start_date: 2024-02
-        end_date: 2026-01
         highlights:
 
       - institution: ETH Zürich
@@ -102,21 +101,3 @@ cv:
         end_date: 2017-12
         summary: In the course "Informatik 1" I taught 20 civil engineers how to solve beginner to intermediate level computer science exercises.
         highlights:
-
-    Skills:
-      - name: Computer Vision
-        level: ""
-        icon: fa-solid fa-eye
-        keywords: ""
-      - name: Human-Computer Interaction
-        level: ""
-        icon: fa-solid fa-hand-pointer
-        keywords: ""
-      - name: Programming
-        level: ""
-        icon: fa-solid fa-code
-        keywords: ""
-
-    Languages:
-      # - name: Language
-      #   summary: Fluency level
