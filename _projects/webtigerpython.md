@@ -2,7 +2,7 @@
 layout: page
 title: WebTigerPython
 description: A low-floor, high-ceiling Python IDE for the browser.
-importance: 3
+importance: 0
 related_publications: true
 ---
 
