@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dev-clemons.github.io/sitemap.xml
+Sitemap: https://dev-clemons.ch/sitemap.xml
